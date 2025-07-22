@@ -1,16 +1,31 @@
 ## Hi there 👋
+# 👋 Hey, I'm Marcellus Harris
 
-<!--
-**MarcellusHarris/MarcellusHarris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Cybersecurity Analyst | 🛡️ Security+ Certified | 💻 Python | 🔍 Splunk | 🧠 Always Learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+- 🔎 [Log Alert Tool](https://github.com/MarcellusHarris/log-alert-tool) – Python-based log scanner that detects suspicious keywords in system logs.
+- 📊 [Splunk Threat Detection](https://github.com/MarcellusHarris/splunk-threat-detection) – Dashboard for detecting Powershell-based attacks and monitoring events in a SIEM.
+- 🛰️ [Automated Port Scanner](https://github.com/MarcellusHarris/automated-port-scanner) – Scans open ports, evaluates common vulnerabilities, and features DNS tunneling demo.
+
+---
+
+## 📄 Resume & Links
+
+- 📄 [View My Resume](https://tinyurl.com/3s3ktxz9)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/marcellus-harris1/)
+- 💻 [GitHub Portfolio](https://github.com/MarcellusHarris)
+
+---
+
+## 🛠️ Tools & Skills
+
+`Python` `Splunk` `Metasploit` `Snort` `Wireshark` `Azure`  
+`SQL/NoSQL` `Nmap` `Linux` `SOC Analysis` `Incident Response`
+
+---
+
+*Thanks for stopping by! Feel free to connect or collaborate!*
