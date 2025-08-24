@@ -3,6 +3,21 @@
 
 🎯 Early-Career Cybersecurity Professional | 🛡️ Security+ Certified | 💻 Python | 🔍 Splunk | ☁️ Azure
 
+
+
+**🚀 Projects & Tools I'm most proud of**
+
+- **Automated Port Scanner & Vulnerability Assessment** — A Python-based scanner that identifies open ports and flags high-risk services; featured at BootCon.
+- **Splunk Threat Detection** — Custom dashboards and alerts to surface malicious PowerShell activity and host-based anomalies.
+- **Incident Response Toolkit** — Cross-platform evidence collection script for Windows, macOS and Linux.
+- **Cloud Security Auditor** — Lightweight auditor that checks AWS accounts for common misconfigurations and outputs CSV/JSON/HTML reports.
+
+**🛠️ Top skills & certifications**
+
+- **Security+ Certified** – CompTIA Security+ (SY0-601)
+- **Splunk Core** – Splunk User / Administrator skills
+- **Programming** – Python, Bash; comfortable with nmap, Wireshark and basic Windows/macOS administration
+- **Cloud & DevOps** – Familiar with AWS and Azure fundamentals, automation workflows (n8n), and GitHub Actions
 I'm passionate about identifying and mitigating threats in digital environments. From analyzing logs to automating vulnerability assessments, I bring a hands-on, adaptable approach to cybersecurity challenges. I love building tools, exploring security frameworks, and continuously sharpening my skills to stay ahead of evolving threats.
 
 ---
