@@ -56,3 +56,15 @@ I'm a Security+ certified cybersecurity professional with a passion for cyber de
 
 *Always open to collaborating, learning, and contributing to cybersecurity projects.*  
 Let's connect and build safer systems together! 🛡️🔥
+
+### 📈 GitHub Stats
+
+![Marcellus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcellusHarris&show_icons=true&hide=stars,issues&theme=default)
+
+### 🏆 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcellusHarris&layout=compact&theme=default)
+
+### 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcellus-harris1)
